@@ -100,7 +100,7 @@ Participation in and completion of lab exercises is a requirement for this cours
 There will be one midterm project that will assess your comprehension of the preliminary material of the course including data manipulation, generation, probability, and basic statistics. This project will be assigned on Monday, September 26, and will be due the following Monday, October 3, before class, at 1pm. Unlike the lab exercises, the final project **must be completed individually**.
 
 ### Final Project
-There will be one final summative project that will assess your comprehension of the material throughout the term. This will be assigned during the seventh week of class and will be due at the end of finals week, at 1pm on October 21. Unlike the lab exercises, the final project **must be completed individually**. Collusion, plagiarism, and cheating will not be tolerated.
+There will be one final summative project that will assess your comprehension of the material throughout the term. This will be assigned during the seventh week of class and will be due on Thursday of finals week, at noon on October 20. Unlike the lab exercises, the final project **must be completed individually**. Collusion, plagiarism, and cheating will not be tolerated.
 
 Here is a tentative rubric for the final project. The four columns refer to the same four levels of mastery described above. Keep this rubric in mind as we go through the course and make sure that you can do these things so that there will be no surprises when you receive the assignment.  
 
