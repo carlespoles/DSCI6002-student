@@ -1,6 +1,10 @@
 GalvanizeU-University of New Haven <br> Master of Science in Data Science <br> DSCI6002: Data Exploration, Feature Engineering, and Statistics for Data Scientists
 =========================================
 --------------
+Final Project
+--------------
+It can be [found here]('https://github.com/carlespoles/DSCI6002-student/blob/master/week5/5-1_Review/DSCI6002-Final-CarlesPolesMielgo.ipynb')
+--------------
 Logistics
 --------------
 
