@@ -3,7 +3,7 @@ GalvanizeU-University of New Haven <br> Master of Science in Data Science <br> D
 --------------
 Final Project
 --------------
-**It can be [found here](https://github.com/carlespoles/DSCI6002-student/blob/master/week5/5-1_Review/DSCI6002-Final-CarlesPolesMielgo.ipynb).**
+**It can be [found here]**(https://github.com/carlespoles/DSCI6002-student/blob/master/week5/5-1_Review/DSCI6002-Final-CarlesPolesMielgo.ipynb)**.**
 --------------
 Logistics
 --------------
